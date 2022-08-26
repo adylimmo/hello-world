@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Edit on github 25 agustus 2022</h1>
+    <h1>Edit on github 26 agustus 2022</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -28,7 +28,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning FIX</h1>
+   <h1> Thankyou, Happy Learning</h1>
   
 
   
